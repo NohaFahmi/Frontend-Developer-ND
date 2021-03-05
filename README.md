@@ -28,7 +28,7 @@ Started in APR, 2020 and completed in SEP, 2020
 [React Developer ND Certification](https://confirm.udacity.com/FGG2Y6PW)
 
 ### List of Projects
-- [MyReads: A Book Tracking App]()
+- [MyReads: A Book Tracking App](https://book-tracking-app.netlify.app/)
 a bookshelf app that allows you to select and categorize books you have read, are currently reading, or want to read. This project is done using React to build the application and provides an API server and client library.
     - [REPO](https://github.com/NohaaAa/MyReads-A-Book-Lending-App)
 - [Would_you_rather..?_ React Game]()
